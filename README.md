@@ -1,4 +1,4 @@
-# Thyroid-Recurred-Prediction-using-Machine-Learning
+# Thyroid-recurrence-Prediction-using-Machine-Learning
 
 ## Table of Contents
 - [Description](#description)
