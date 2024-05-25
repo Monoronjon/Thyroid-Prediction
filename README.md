@@ -9,7 +9,6 @@
 - [Usage](#usage)
 - [Results](#results)
 - [Credits](#credits)
-- [Conclusion](#conclusion)
 
 ## Description
 This project aims to predict the recurrence of thyroid cancer using machine learning techniques. The prediction is based on a dataset containing various features related to patient medical history, and treatment details. The target variable for prediction is `Recurred`.
@@ -58,9 +57,9 @@ The performance of the models is evaluated using metrics such as:
 - F1 Score
 
 ## Credits
-Monoronjon Dutta
-B. Sc. in Computer Science & Engineering 
-Daffodil International University
+- Monoronjon Dutta
+- B. Sc. in Computer Science & Engineering
+- Daffodil International University
 
 ## Usage
 To use this project, follow these steps:
